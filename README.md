@@ -15,5 +15,5 @@ If your two files are HTML files.
    ```
 If your two files are not HTML files.
    ```sh
-   python main.py file1.txt file2.txt html
+   python main.py file1.txt file2.txt
    ```
